@@ -1,0 +1,52 @@
+body {
+  background-color:Gray;
+}
+
+
+
+table, th, td, tr {
+    border: 3px solid black;
+     border-collapse: collapse;
+     padding-bottom: 1em
+
+}
+tr {
+  background-color: darkgray;
+}
+
+th {
+    padding: 15px;
+}
+
+.clearfix:before, .clearfix:after {
+  content:"";
+  display: table;
+  clear: both;
+}
+
+.container {
+  max-width:920px;
+  margin:auto;
+  background-color: lightGrey;
+  color: navy;
+  padding:1.2em;
+}
+.favCity img{
+  float:left;
+  width:20%;
+  height: 20;
+}
+
+.P img{
+  float:left;
+  width:20%;
+  height: 20%;
+}
+.DS img{
+  float:left;
+  width:20%;
+  height: 10%;
+}
+.SGC img{
+  float:left;
+}
