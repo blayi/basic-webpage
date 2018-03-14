@@ -1,0 +1,50 @@
+
+body{
+  background-color: coral;
+}
+  table, th, td ,tr{
+   border: 5px solid black;
+   border-collapse:collapse;
+
+}
+#ams{
+  width: 70%;
+}
+
+.sec1{
+  background-color: tomato;
+}
+.sec2{
+  background-color: tomato;
+}
+ th{
+  background-color: #ccccff;
+  font-size: 2em;
+}
+
+.center{
+  text-align: center;
+}
+
+.col-4{
+  background-color: Tomato;
+  height: 45em;
+
+}
+
+
+ h1{
+    text-shadow: 4px 4px pink;
+  }
+
+  h2 {
+    text-shadow: 4px 4px pink;
+  }
+
+  h3 {
+    text-shadow: 4px 4px pink;
+  }
+
+  h4 {
+    text-shadow: 4px 4px pink;
+  }
