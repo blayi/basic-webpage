@@ -25,7 +25,7 @@ th {
 }
 
 .container {
-  max-width:920px;
+  max-width:1300px;
   margin:auto;
   background-color: lightGrey;
   color: navy;
@@ -37,16 +37,20 @@ th {
   height: 20;
 }
 
-.P img{
-  float:left;
-  width:20%;
-  height: 20%;
+.block{
+  display: inline-block;
 }
-.DS img{
-  float:left;
-  width:20%;
-  height: 10%;
+
+.site-p{
+
+max-width: 400px;
 }
-.SGC img{
-  float:left;
+
+.myProfile{
+  text-align: center;
+}
+#title{
+  max-width:900px;
+  position: relative;
+  left: 50px;
 }
