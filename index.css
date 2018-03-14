@@ -7,8 +7,11 @@ body {
 table, th, td, tr {
     border: 3px solid black;
      border-collapse: collapse;
-     padding-bottom: 1em
+     padding-bottom: 1em;
 
+}
+table {
+    width: 100%;
 }
 tr {
   background-color: darkgray;
@@ -16,6 +19,9 @@ tr {
 
 th {
     padding: 15px;
+}
+#ams{
+  width:450px;
 }
 
 .clearfix:before, .clearfix:after {

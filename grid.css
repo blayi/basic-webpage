@@ -24,6 +24,10 @@ body{
 
 .center{
   text-align: center;
+  margin:auto;
+}
+table {
+    width: 100%;
 }
 
 .col-4{
